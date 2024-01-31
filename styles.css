@@ -47,7 +47,8 @@ th{
 	padding: 15px;
 	background-color: grey;
 	position: sticky;
-	
-	
-	
+}
+
+.link-boxes{
+	display: flex;
 }
